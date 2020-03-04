@@ -1,6 +1,6 @@
 # Weakly-Supervised
 
-In this project we aim to explore a weakely supervised approach for tumor segmentation.
+In this project we aim to explore a weakly supervised approach for tumor lozalization.
 
 
 ### Main Idea
