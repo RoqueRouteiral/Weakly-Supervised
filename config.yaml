@@ -1,0 +1,25 @@
+exp_name: exp
+dataset_path: data/
+experiments: Experiments/
+model_name: resnet
+weights_test_file: C:/Users/roque/Documents/Projects/Weakly-Supervised/Experiments/exp/trained_model.ckpt
+
+train: True
+test: False
+
+batch_size: 32
+epochs: 10
+optimizer: adam     
+learning_rate: 0.00001        
+snapshots: 5         
+gpu: 0        
+rotation_range: 10
+ver_flip: True
+deform_factor: 5
+    
+
+resize: False
+size: 64
+normalize: True
+shuffle_data: False
+seed: 1924    

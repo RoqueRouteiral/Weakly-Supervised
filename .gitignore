@@ -1,2 +1,4 @@
 
 *.png
+*Experiments/
+*__pycache__
