@@ -15,12 +15,12 @@ In this project we aim to explore a weakly supervised approach for tumor lozaliz
 Modified BRATS. To Do
 
 ### To Do
-[x] Create simple dataset
-[x] Train simple classification network
-[] Get to good performance
-[] Add data augmentation
-[] Add grad cam or similar
-[] Add bboxes generator and evaluation for detection task
+[ x ] Create simple dataset.
+[ x ] Train simple classification network.
+[ ] Get to good performance.
+[ ] Add data augmentation.
+[ ] Add grad cam or similar.
+[ ] Add bboxes generator and evaluation for detection task.
 
 ### Future
 * Upgrade to 3D
