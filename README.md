@@ -21,6 +21,6 @@ Modified BRATS. To Do
 - [ ] Add data augmentation.
 - [ ] Add grad cam or similar.
 - [ ] Add bboxes generator and evaluation for detection task.
-
+- [ ] Try in more complex dataset.
 ### Future
 * Upgrade to 3D
